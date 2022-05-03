@@ -1,0 +1,6 @@
+district,total_ntd,land_area,main_building_material,building_area,num_room,num_hall,num_toilet,transaction_year,transaction_month,building_age
+shihlin,10000000,29.4,Reinforced concrete construction,78.05,3,2,1,2019,8,1952
+shihlin,12000000,30.25,Reinforced concrete construction,72.27,3,2,2,2019,12,1952
+shihlin,10500000,30.33,Strengthen brickwork,71.34,2,1,1,2019,11,1958
+shihlin,6200000,33.67,Reinforced concrete construction,74.65,2,2,1,2019,12,1954
+shihlin,15000000,29.75,Strengthen brickwork,73.06,3,2,1,2017,11,1952.02

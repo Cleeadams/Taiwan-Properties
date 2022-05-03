@@ -1,0 +1,11 @@
+district,land_area,main_building_material,building_area,num_room,num_hall,num_toilet,transaction_year,transaction_month,building_age,total_ntd
+Beitou,40.25,Reinforced concrete construction,89.07,3,2,1,2020,1,1958,0
+Daan District,27.6,Reinforced concrete construction,108.95,3,2,2,2020,1,1944,0
+Neihu District,8.4,Reinforced concrete construction,44.37,2,1,1,2020,1,1934,0
+shihlin,18.51,Reinforced concrete construction,106.55,3,2,2,2020,1,1946,0
+shihlin,32.33,Strengthen brickwork,75.22,3,2,1,2020,1,1958,0
+Songshan District,4.13,Reinforced concrete construction,44.71,2,2,1,2020,1,1948,0
+Wanhua District,20.64,Reinforced concrete construction,53.42,2,1,1,2020,1,1964,0
+Wenshan District,61.06,Reinforced concrete construction,121.78,3,2,2,2020,1,1944,0
+Xinyi District,4,Strengthen brickwork,10.12,2,1,1,2020,1,1962,0
+Zhongshan Area,32.63,Reinforced concrete construction,152.23,4,2,2,2020,1,1948,0

@@ -1,0 +1,15 @@
+---
+title: "Untitled"
+author: "Connor Adams"
+date: "4/22/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+y<-2+2
+y
+```
